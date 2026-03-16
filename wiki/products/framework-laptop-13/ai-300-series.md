@@ -39,8 +39,7 @@ The laptop is Framework's first to support Wi-Fi 7 using the AMD RZ717 Wi-Fi car
 
 ### Connectivity
 #### Expansion Cards
-Framework Laptop 13 (AMD Ryzen AI 300 Series) Series has two USB 4 ports and 2 USB 3.2 ports. All four ports support display output, an upgrade from two on the previous generation [AMD Ryzen 7040 Series](/products/framework-laptop-13/7040-series) boards. 
-
+Framework Laptop 13 (AMD Ryzen AI 300 Series) Series has two USB 4 ports and 2 USB 3.2 ports. All four ports support display output, an upgrade from two on the previous generation [AMD Ryzen 7040 Series](/products/framework-laptop-13/7040-series) boards. The USB 4.0 ports can be found at the rear and they support 40Gbps[^10].
 #### Wireless
 Ryzen AI 300 Series Series comes with the AMD RZ717 Wireless card, with support for Wi-Fi 7.[^2]
 
@@ -71,3 +70,4 @@ Framework Laptop 13 (AMD Ryzen AI 300 Series) supports M.2 2280-size NVMe SSDs.
 [^7]: <https://frame.work/blog/reviews-on-the-new-framework-laptop-13-are-live> [Archived](http://web.archive.org/web/20250418124934/https://frame.work/blog/reviews-on-the-new-framework-laptop-13-are-live) 
 [^8]: <https://www.crucial.com/memory/ddr5/CT2K64G56C46S5/CT26301053> [Archived](https://web.archive.org/web/20250611082636/http://web.archive.org/screenshot/https://www.crucial.com/memory/ddr5/CT2K64G56C46S5/CT26301053)
 [^9]: <https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock> [Archived](https://web.archive.org/web/20250621022253/https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock) 
+[^10]: <https://community.frame.work/t/solved-framework-ai-300-usb-c-bandwidth/65071/2>
